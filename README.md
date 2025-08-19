@@ -1,6 +1,6 @@
 # CNN Deep Learning for Wastewater Image Analysis
 
-Adapted from [wastewater_vision](https://github.com/scabini/wastewater_vision), this repository provides CNN-based deep learning models for wastewater image classification and prediction, with and without transfer learning.  
+Adapted from [wastewater_vision](https://github.com/scabini/wastewater_vision), this repository provides CNN-based deep learning models for wastewater image prediction, with and without transfer learning.  
 Several changes have been made to improve generalization and reduce overfitting.
 
 ---
